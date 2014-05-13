@@ -1,0 +1,86 @@
+personal:
+  name:
+    first: Paul
+    last: Nechifor
+  location:
+    city:
+      full: Iași
+      short: IS
+    region:
+      full: Iași
+      short: IS
+    country:
+      full: Romania
+      short: RO
+    comment: currently
+contact:
+  homepage:
+    domain: nechifor.net
+    url: http://nechifor.net
+  email: paul@nechifor.net
+  github: paul-nechifor
+  skype: paul.r.nechifor
+education:
+- type: bs
+  where:
+- type: ms
+  degree: Software Engineering
+  where:
+compLangs:
+- name: Java
+  score: 1000
+
+- name: Python
+
+- name: CoffeeScript
+
+- name: JavaScript
+
+- name: ActionScript
+
+- name: C++
+
+- name: C
+
+- name: C#
+
+- name: Go
+
+- name: Haskell
+
+- name: Assembly
+
+- name: CSS
+  types: non-prog
+
+- name: HTML
+  types: non-prog
+
+- name: Jade
+  types: non-prog
+
+- name: Stylus
+  types: non-prog
+
+- name: Lisp
+
+- name: PHP
+
+- name: Pascal
+  score: 30
+
+- name: K
+  score: 6
+
+- name: FoxPro
+  score: 4
+
+- name: PL/SQL
+  score: 2
+
+projects:
+- name: Thunder Tactics
+  desc: MMORPG/TBS browser game built with WebGL and WebSockets (group project).
+  report: https://drive.google.com/file/d/0B2d_Hog018b4dU9CbS1TNHZNYVE/edit?usp=sharing
+  code: tt
+  github: Yes
