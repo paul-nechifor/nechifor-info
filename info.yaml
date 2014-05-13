@@ -100,5 +100,62 @@ projects:
   desc: Reddit bot which generates word clouds from submission comments.
   code: reddit-cloud
 
+- name: JPEG Enricher
+  desc: Enriches images by adding JPEG artefacts.
+
+- name: Chess puzzles
+  desc: Simple chess puzzles in HTML.
+
+- name: Circuits
+  desc: Generates seamless circuit tiles.
+  code: circuits
+
+- name: Magic Square
+  desc: Generates magic squares of different orders with three algorithms (in Romanian).
+  code: MagicSquare
+
+- name: Horoscop
+  desc: A fake horoscope site in Romanian. Can you tell this apart from the real thing? I dare you.
+
+- name: SpaceHoarder
+  desc: A basic SpaceMonger clone for Linux written in Python with GTK+ 3.
+  code: space-hoarder
+
+- name: Fake Identity
+  desc: Generates plausible fake Romanian identities.
+
+- name: WebGL Demos
+  desc: My WebGL demos.
+  code: webgl-demos
+
+- name: Papers
+  desc: Generates funny computer science papars titles.
+
+- name: Pseudoromanian
+  desc: Text generator similar to Lorem Ipsum, but with Romanian letters.
+
+- name: XML+XSLT Blog
+  desc: An experimental blog I wrote in 2010 after I learned of XSLT.
+  code: jurnal-xml-xslt
+
+- name: SIBF
+  desc: My atempt at making better book typography on the web. I'll restart this project one day.
+  code: sibf
+
+- name: Sidrem
+  desc: A SVG font for an constructed script I created.
+  code: sidrem
+
+- name: TorusCycle
+  desc: A yet to be finished Tron clone in WebGL (use WAD and QE).
+
+- name: CRRIFC
+  desc: A multiplayer map-based quiz game (ConQUIZtador clone) written in C for Linux which I wrote in my first year of college.
+  code: crrifc
+
+- name: Poshex
+  desc: A Chrome extension for detecting and using semantic markup formats (Microdata, RDFa and microformats).
+  code: poshex
+
 projectSettings:
   githubDefaultOn: Yes
