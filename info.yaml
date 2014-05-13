@@ -83,18 +83,15 @@ projects:
   desc: MMORPG/TBS browser game built with WebGL and WebSockets (group project).
   report: https://drive.google.com/file/d/0B2d_Hog018b4dU9CbS1TNHZNYVE/edit?usp=sharing
   code: tt
-  github: Yes
 
 - name: Negura
   desc: Peer-to-peer distribuited file system. This was my bachelor degree thesis.
   report: https://github.com/paul-nechifor/Negura/raw/master/doc/licen%C8%9B%C4%83/licen%C8%9B%C4%83.pdf
   code: negura
-  github: Yes
 
 - name: ComA
   desc: My project for the Human–Computer Interaction course.
   code: coma
-  github: Yes
   demo: http://www.youtube.com/watch?v=vWgLG8Cdfzk
   developmentBlog: http://building-coma.tumblr.com/
   report: http://htmlpreview.github.io/?https://github.com/paul-nechifor/coma/blob/master/report/report.html
@@ -102,4 +99,6 @@ projects:
 - name: Reddit Cloud
   desc: Reddit bot which generates word clouds from submission comments.
   code: reddit-cloud
-  github: Yes
+
+projectSettings:
+  githubDefaultOn: Yes
