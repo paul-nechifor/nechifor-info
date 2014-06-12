@@ -102,9 +102,13 @@ projects:
 
 - name: JPEG Enricher
   desc: Enriches images by adding JPEG artefacts.
+  code: enricher
+  github:
 
 - name: Chess puzzles
   desc: Simple chess puzzles in HTML.
+  code: chess-puzzles
+  github:
 
 - name: Circuits
   desc: Generates seamless circuit tiles.
@@ -112,10 +116,12 @@ projects:
 
 - name: Magic Square
   desc: Generates magic squares of different orders with three algorithms (in Romanian).
-  code: MagicSquare
+  code: magic-square
 
 - name: Horoscop
   desc: A fake horoscope site in Romanian. Can you tell this apart from the real thing? I dare you.
+  code: horoscop
+  github:
 
 - name: SpaceHoarder
   desc: A basic SpaceMonger clone for Linux written in Python with GTK+ 3.
@@ -123,6 +129,8 @@ projects:
 
 - name: Fake Identity
   desc: Generates plausible fake Romanian identities.
+  code: identitate-falsa
+  github:
 
 - name: WebGL Demos
   desc: My WebGL demos.
@@ -130,9 +138,13 @@ projects:
 
 - name: Papers
   desc: Generates funny computer science papars titles.
+  code: papers
+  github:
 
 - name: Pseudoromanian
   desc: Text generator similar to Lorem Ipsum, but with Romanian letters.
+  code: pseudoromanian
+  github:
 
 - name: XML+XSLT Blog
   desc: An experimental blog I wrote in 2010 after I learned of XSLT.
@@ -148,6 +160,7 @@ projects:
 
 - name: TorusCycle
   desc: A yet to be finished Tron clone in WebGL (use WAD and QE).
+  code: torus-cycle
 
 - name: CRRIFC
   desc: A multiplayer map-based quiz game (ConQUIZtador clone) written in C for Linux which I wrote in my first year of college.
