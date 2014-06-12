@@ -163,12 +163,77 @@ projects:
   code: torus-cycle
 
 - name: CRRIFC
-  desc: A multiplayer map-based quiz game (ConQUIZtador clone) written in C for Linux which I wrote in my first year of college.
+  desc: A multiplayer map-based quiz game written in C for Linux.
   code: crrifc
 
 - name: Poshex
   desc: A Chrome extension for detecting and using semantic markup formats (Microdata, RDFa and microformats).
   code: poshex
+
+- name: Auto Doge
+  desc: A Reddit bot that creates Doge images.
+  code: auto-doge
+
+- name: Check Your Privilege
+  desc: A simple checklist to verify if you are privileged.
+  code: check-your-privilege
+
+- name: College Website
+  desc: My initial college website in PHP from 2008.
+  code: college-website
+
+- name: Second College Website
+  desc: My second college website which I hosted on the students' server.
+  code: college-website-2
+
+- name: Facetrain
+  desc: Neural networks face training experiments.
+  code: facetrain
+
+- name: Fenrir Chat
+  desc: My first use of BSD sockets to build a chat program.
+  code: fenrir-chat
+
+- name: Git Visualization
+  desc: Visualize local Git repos.
+  code: git-visualization
+
+- name: Concurrency in Go
+  desc: My presentation about Go concurrency.
+  code: go-concurrency
+
+- name: Italia fascistă
+  desc: A history themed web site I build in high school for a competition.
+  code: italia-fascistă
+  github: italia-fascista
+
+- name: KMPress
+  desc: K-means clustering to encode an image using fewer colors.
+  code: kmpress
+
+- name: Meet Firefox
+  desc: A silly project I did in my first semester of college.
+  code: meet-firefox
+
+- name: Paul Scripts
+  desc: An old site.
+  code: paul-scripts
+
+- name: Resolvents
+  desc: A Ligics homework.
+  code: resolvents
+
+- name: RSTSD
+  desc: A history themed website I build in 2006 for a competition.
+  code: rstsd
+
+- name: Timr
+  desc: My project for my Web Technologies course in 2010.
+  code: timr
+
+- name: Vagrant Hadoop Cluster
+  desc: A mini Hadoop cluster configuration in Vagrant.
+  code: vagrant-hadoop-cluster
 
 projectSettings:
   githubDefaultOn: Yes
