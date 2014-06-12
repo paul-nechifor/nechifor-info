@@ -80,160 +80,160 @@ compLangs:
 
 projects:
 - name: Thunder Tactics
+  code: tt
   desc: MMORPG/TBS browser game built with WebGL and WebSockets (group project).
   report: https://drive.google.com/file/d/0B2d_Hog018b4dU9CbS1TNHZNYVE/edit?usp=sharing
-  code: tt
 
 - name: Negura
+  code: negura
   desc: Peer-to-peer distribuited file system (my bachelor degree thesis).
   report: https://github.com/paul-nechifor/Negura/raw/master/doc/licen%C8%9B%C4%83/licen%C8%9B%C4%83.pdf
-  code: negura
 
 - name: ComA
-  desc: My project for the Human–Computer Interaction course.
   code: coma
+  desc: My project for the Human–Computer Interaction course.
   demo: http://www.youtube.com/watch?v=vWgLG8Cdfzk
   developmentBlog: http://building-coma.tumblr.com/
   report: http://htmlpreview.github.io/?https://github.com/paul-nechifor/coma/blob/master/report/report.html
 
 - name: Reddit Cloud
-  desc: Reddit bot which generates word clouds from submission comments.
   code: reddit-cloud
+  desc: Reddit bot which generates word clouds from submission comments.
 
 - name: JPEG Enricher
-  desc: Enriches images by adding JPEG artefacts.
   code: enricher
+  desc: Enriches images by adding JPEG artefacts.
   github:
 
 - name: Chess puzzles
-  desc: Simple chess puzzles in HTML.
   code: chess-puzzles
+  desc: Simple chess puzzles in HTML.
   github:
 
 - name: Circuits
-  desc: Generates seamless circuit tiles.
   code: circuits
+  desc: Generates seamless circuit tiles.
 
 - name: Magic Square
-  desc: Generates magic squares of different orders with three algorithms.
   code: magic-square
+  desc: Generates magic squares of different orders with three algorithms.
 
 - name: Horoscop
-  desc: A fake horoscope site in Romanian. Can you tell this apart from the real thing?
   code: horoscop
+  desc: A fake horoscope site in Romanian. Can you tell this apart from the real thing?
   github:
 
 - name: SpaceHoarder
-  desc: A basic SpaceMonger clone for Linux written in Python with GTK+ 3.
   code: space-hoarder
+  desc: A basic SpaceMonger clone for Linux written in Python with GTK+ 3.
 
 - name: Fake Identity
-  desc: Generates plausible fake Romanian identities.
   code: identitate-falsa
+  desc: Generates plausible fake Romanian identities.
   github:
 
 - name: WebGL Demos
-  desc: My WebGL demos.
   code: webgl-demos
+  desc: My WebGL demos.
 
 - name: Papers
-  desc: Generates funny computer science papars titles.
   code: papers
+  desc: Generates funny computer science papars titles.
   github:
 
 - name: Pseudoromanian
-  desc: Text generator similar to Lorem Ipsum, but with Romanian letters.
   code: pseudoromanian
+  desc: Text generator similar to Lorem Ipsum, but with Romanian letters.
   github:
 
 - name: XML+XSLT Blog
-  desc: An experimental blog I wrote in 2010 after I learned of XSLT.
   code: jurnal-xml-xslt
+  desc: An experimental blog I wrote in 2010 after I learned of XSLT.
 
 - name: SIBF
-  desc: My atempt at making better book typography on the web. I'll restart this project one day.
   code: sibf
+  desc: My atempt at making better book typography on the web. I'll restart this project one day.
 
 - name: Sidrem
-  desc: A SVG font for an constructed script I created.
   code: sidrem
+  desc: A SVG font for an constructed script I created.
 
 - name: TorusCycle
-  desc: A yet to be finished Tron clone in WebGL (use WAD and QE).
   code: torus-cycle
+  desc: A yet to be finished Tron clone in WebGL (use WAD and QE).
 
 - name: CRRIFC
-  desc: A multiplayer map-based quiz game written in C for Linux.
   code: crrifc
+  desc: A multiplayer map-based quiz game written in C for Linux.
 
 - name: Poshex
-  desc: A Chrome extension for detecting and using semantic markup formats.
   code: poshex
+  desc: A Chrome extension for detecting and using semantic markup formats.
 
 - name: Auto Doge
-  desc: A Reddit bot that creates Doge images.
   code: auto-doge
+  desc: A Reddit bot that creates Doge images.
 
 - name: Check Your Privilege
-  desc: A simple checklist to verify if you are privileged.
   code: check-your-privilege
+  desc: A simple checklist to verify if you are privileged.
 
 - name: College Website
-  desc: My initial college website in PHP from 2008.
   code: college-website
+  desc: My initial college website in PHP from 2008.
 
 - name: Second College Website
-  desc: My second college website which I hosted on the students' server.
   code: college-website-2
+  desc: My second college website which I hosted on the students' server.
 
 - name: Facetrain
-  desc: Neural networks face training experiments.
   code: facetrain
+  desc: Neural networks face training experiments.
 
 - name: Fenrir Chat
-  desc: My first use of BSD sockets to build a chat program.
   code: fenrir-chat
+  desc: My first use of BSD sockets to build a chat program.
 
 - name: Git Visualization
-  desc: Visualize local Git repos.
   code: git-visualization
+  desc: Visualize local Git repos.
 
 - name: Concurrency in Go
-  desc: My presentation about Go concurrency.
   code: go-concurrency
+  desc: My presentation about Go concurrency.
 
 - name: Italia fascistă
-  desc: A history themed web site I build in high school for a competition.
   code: italia-fascistă
+  desc: A history themed web site I build in high school for a competition.
   github: italia-fascista
 
 - name: KMPress
-  desc: K-means clustering to encode an image using fewer colors.
   code: kmpress
+  desc: K-means clustering to encode an image using fewer colors.
 
 - name: Meet Firefox
-  desc: A silly project I did in my first semester of college.
   code: meet-firefox
+  desc: A silly project I did in my first semester of college.
 
 - name: Paul Scripts
-  desc: An old site.
   code: paul-scripts
+  desc: An old site.
 
 - name: Resolvents
-  desc: A Logics homework.
   code: resolvents
+  desc: A Logics homework.
 
 - name: RSTSD
-  desc: A history themed website I build in 2006 for a competition.
   code: rstsd
+  desc: A history themed website I build in 2006 for a competition.
 
 - name: Timr
-  desc: My project for my Web Technologies course in 2010.
   code: timr
+  desc: My project for my Web Technologies course in 2010.
 
 - name: Vagrant Hadoop Cluster
-  desc: A mini Hadoop cluster configuration in Vagrant.
   code: vagrant-hadoop-cluster
+  desc: A mini Hadoop cluster configuration in Vagrant.
 
 projectSettings:
   githubDefaultOn: Yes
