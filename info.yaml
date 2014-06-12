@@ -85,7 +85,7 @@ projects:
   code: tt
 
 - name: Negura
-  desc: Peer-to-peer distribuited file system. This was my bachelor degree thesis.
+  desc: Peer-to-peer distribuited file system (my bachelor degree thesis).
   report: https://github.com/paul-nechifor/Negura/raw/master/doc/licen%C8%9B%C4%83/licen%C8%9B%C4%83.pdf
   code: negura
 
@@ -115,11 +115,11 @@ projects:
   code: circuits
 
 - name: Magic Square
-  desc: Generates magic squares of different orders with three algorithms (in Romanian).
+  desc: Generates magic squares of different orders with three algorithms.
   code: magic-square
 
 - name: Horoscop
-  desc: A fake horoscope site in Romanian. Can you tell this apart from the real thing? I dare you.
+  desc: A fake horoscope site in Romanian. Can you tell this apart from the real thing?
   code: horoscop
   github:
 
@@ -167,7 +167,7 @@ projects:
   code: crrifc
 
 - name: Poshex
-  desc: A Chrome extension for detecting and using semantic markup formats (Microdata, RDFa and microformats).
+  desc: A Chrome extension for detecting and using semantic markup formats.
   code: poshex
 
 - name: Auto Doge
@@ -220,7 +220,7 @@ projects:
   code: paul-scripts
 
 - name: Resolvents
-  desc: A Ligics homework.
+  desc: A Logics homework.
   code: resolvents
 
 - name: RSTSD
