@@ -14,12 +14,21 @@ personal:
       short: RO
     comment: currently
 contact:
-  homepage:
+- homepage:
     domain: nechifor.net
     url: http://nechifor.net
-  email: paul@nechifor.net
-  github: paul-nechifor
-  skype: paul.r.nechifor
+- email: paul@nechifor.net
+- github: paul-nechifor
+- linkedin: paul-nechifor/6a/531/763
+- facebook: paul.nechifor
+- skype: paul.r.nechifor
+- instagram: paulnechifor
+- youtube: PaulNechifor
+- twitter: PaulNechifor
+- blog: http://blog.paul.nechifor.net
+- stackoverflow:
+    name: paul-nechifor
+    number: 2872108
 education:
 - type: bs
   where:
