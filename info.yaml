@@ -198,6 +198,18 @@ projects:
   code: facetrain
   desc: Neural networks face training experiments.
 
+- name: "1930"
+  code: "1930"
+  desc: Multiplayer quiz game, but massive, urgent, and eternal.
+  links:
+  - github: Romania-1930
+
+- name: Makawa
+  code: makawa
+  desc: Java implementation of the Macaua card game.
+  links:
+  - github: Makawa
+
 - name: Fenrir Chat
   code: fenrir-chat
   desc: My first use of BSD sockets to build a chat program.
@@ -243,6 +255,14 @@ projects:
 - name: Vagrant Hadoop Cluster
   code: vagrant-hadoop-cluster
   desc: A mini Hadoop cluster configuration in Vagrant.
+
+- name: Minimul
+  code: minimul-default
+  desc: The predecesor to my current website.
+
+- name: Minimul Server
+  code: minimul
+  desc: Vagrant configuration for all my old websites.
 
 projectSettings:
   githubDefaultOn: Yes
