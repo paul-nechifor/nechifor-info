@@ -82,33 +82,39 @@ projects:
 - name: Thunder Tactics
   code: tt
   desc: MMORPG/TBS browser game built with WebGL and WebSockets (group project).
-  report: https://drive.google.com/file/d/0B2d_Hog018b4dU9CbS1TNHZNYVE/edit?usp=sharing
+  links:
+  - report: https://drive.google.com/file/d/0B2d_Hog018b4dU9CbS1TNHZNYVE/edit?usp=sharing
 
 - name: Negura
   code: negura
   desc: Peer-to-peer distribuited file system (my bachelor degree thesis).
-  report: https://github.com/paul-nechifor/Negura/raw/master/doc/licen%C8%9B%C4%83/licen%C8%9B%C4%83.pdf
+  links:
+  - report: https://github.com/paul-nechifor/Negura/raw/master/doc/licen%C8%9B%C4%83/licen%C8%9B%C4%83.pdf
 
 - name: ComA
   code: coma
   desc: My project for the Human–Computer Interaction course.
   demo: http://www.youtube.com/watch?v=vWgLG8Cdfzk
-  developmentBlog: http://building-coma.tumblr.com/
-  report: http://htmlpreview.github.io/?https://github.com/paul-nechifor/coma/blob/master/report/report.html
+  links:
+  - report: http://htmlpreview.github.io/?https://github.com/paul-nechifor/coma/blob/master/report/report.html
+  - blog: http://building-coma.tumblr.com/
+  - youtube: http://www.youtube.com/watch?v=vWgLG8Cdfzk
 
 - name: Reddit Cloud
   code: reddit-cloud
   desc: Reddit bot which generates word clouds from submission comments.
+  links:
+    - blog: http://blog.paul.nechifor.net/post/57349950225/word-cloud-bot-for-reddit
 
 - name: JPEG Enricher
   code: enricher
   desc: Enriches images by adding JPEG artefacts.
-  github:
+  githubOff: Yes
 
 - name: Chess puzzles
   code: chess-puzzles
   desc: Simple chess puzzles in HTML.
-  github:
+  githubOff: Yes
 
 - name: Circuits
   code: circuits
@@ -121,7 +127,7 @@ projects:
 - name: Horoscop
   code: horoscop
   desc: A fake horoscope site in Romanian. Can you tell this apart from the real thing?
-  github:
+  githubOff: Yes
 
 - name: SpaceHoarder
   code: space-hoarder
@@ -130,7 +136,7 @@ projects:
 - name: Fake Identity
   code: identitate-falsa
   desc: Generates plausible fake Romanian identities.
-  github:
+  githubOff: Yes
 
 - name: WebGL Demos
   code: webgl-demos
@@ -139,12 +145,12 @@ projects:
 - name: Papers
   code: papers
   desc: Generates funny computer science papars titles.
-  github:
+  githubOff: Yes
 
 - name: Pseudoromanian
   code: pseudoromanian
   desc: Text generator similar to Lorem Ipsum, but with Romanian letters.
-  github:
+  githubOff: Yes
 
 - name: XML+XSLT Blog
   code: jurnal-xml-xslt
@@ -165,6 +171,8 @@ projects:
 - name: CRRIFC
   code: crrifc
   desc: A multiplayer map-based quiz game written in C for Linux.
+  links:
+  - youtube: http://www.youtube.com/watch?v=QlaqZcl0R_A
 
 - name: Poshex
   code: poshex
@@ -205,7 +213,8 @@ projects:
 - name: Italia fascistă
   code: italia-fascistă
   desc: A history themed web site I build in high school for a competition.
-  github: italia-fascista
+  links:
+  - github: italia-fascista
 
 - name: KMPress
   code: kmpress
