@@ -284,5 +284,31 @@ projects:
   code: minimul
   desc: Vagrant configuration for all my old websites.
 
+- name: Homepage
+  code: nechifor-index
+  desc: My homepage.
+
+- name: Multilatex
+  desc: Collaborative web editor for LaTeX projects.
+
+- name: CV Info
+  desc: Generate CV data from a YAML file.
+
+- name: Linux CLI tips
+  desc: Linux command-line tips in bubbles.
+
+- name: PayWord Radio
+  desc: Audio streaming using PayWord micropayment.
+
+- name: PP2P
+  desc: Filesharing in C++ similar to Direct Connect.
+
+- name: PN Stat
+  code: pnstat
+  desc: Linux monitoring and logging daemon.
+
+- name: Romsun
+  desc: Romanian text to phoneme converter for MBROLA.
+
 projectSettings:
   githubDefaultOn: Yes
