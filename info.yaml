@@ -28,6 +28,32 @@ personal:
 
     I believe good code can be written in any language. I have an eye out for
     detail and precision in everything I do.
+  interestsDesc: >
+    Things I’ve done in the past and liked and would be interested in exploring
+    further. If you’re interested in something similar (big co and startup
+    alike) go ahead and contact me.
+
+    - **Network communication protocols**
+
+    - **3D graphics on the web**: use of WebGL for extending the possibilities
+    of meaningful web communication (not gimmicky stuff) like mapping, analysis
+    tools, more immersive previews than simple photos.
+
+    - **Digital publishing with good typography**: publication of content that
+    builds and improves on classic typography. Much of current publishing is
+    subpar to dead tree typography.
+
+    - **Natural language correction tools**: practical (web?) NLP tools that
+    correct text beyond simple spell checkers.
+
+    - **Clear designs**: unobtrusive design that focuses on the content and its
+    navigation and manipulation.
+
+    - **AI game algorithms**: From complex algorithms for simple pen and paper
+    games to writing bots for complex games.
+
+    - **Programming languages**: I don’t think enough languages exist.
+    There is room for improvement especially in non-general purpose languages.
 contact:
 - homepage:
     domain: nechifor.net
