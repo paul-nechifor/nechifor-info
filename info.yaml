@@ -129,7 +129,7 @@ compLangs:
 projects:
 - name: Thunder Tactics
   code: tt
-  desc: MMORPG/TBS browser game built with WebGL and WebSockets (group project).
+  desc: WebGL and WebSockets MMORPG/TBS browser game (group project).
   links:
   - report: https://drive.google.com/file/d/0B2d_Hog018b4dU9CbS1TNHZNYVE/edit?usp=sharing
 
@@ -147,7 +147,7 @@ projects:
   - youtube: http://www.youtube.com/watch?v=vWgLG8Cdfzk
 
 - name: Reddit Cloud
-  desc: Reddit bot which generates word clouds from submission comments.
+  desc: Reddit bot which generates word clouds from comments.
   links:
   - blog: http://blog.paul.nechifor.net/post/57349950225/word-cloud-bot-for-reddit
 
@@ -215,7 +215,7 @@ projects:
   - project: http://nechifor.net/static/jurnal-xml-xslt/vechi/jurnal.xml
 
 - name: SIBF
-  desc: My atempt at making better book typography on the web. I'll restart this project one day.
+  desc: My atempt at making better book typography on the web.
   links:
   - project: http://nechifor.net/sibf
 
@@ -314,6 +314,9 @@ projects:
 
 - name: Multilatex
   desc: Collaborative web editor for LaTeX projects.
+
+- name: Multilatex Dissertation
+  desc: My dissertation.
 
 - name: CV Info
   desc: Generate CV data from a YAML file.
