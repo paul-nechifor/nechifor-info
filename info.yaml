@@ -337,5 +337,14 @@ projects:
 - name: Romsun
   desc: Romanian text to phoneme converter for MBROLA.
 
+- name: Cat Finder
+  desc: A game solving program.
+
+- name: ML Notes
+  desc: Machine Language notes (incomplete).
+
+- name: Dotfiles
+  desc: My personal Linux dotfiles.
+
 projectSettings:
   githubDefaultOn: Yes
