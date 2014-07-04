@@ -155,29 +155,29 @@ projects:
   code: enricher
   desc: Enriches images by adding JPEG artefacts.
   links:
-  - project: http://nechifor.net/enricher
+  - project: http://old.nechifor.net/enricher
   githubOff: Yes
 
 - name: Chess puzzles
   desc: Simple chess puzzles in HTML.
   links:
-  - project: http://nechifor.net/chess-puzzles
+  - project: http://old.nechifor.net/chess-puzzles
   githubOff: Yes
 
 - name: Circuits
   desc: Generates seamless circuit tiles.
   links:
-  - project: http://nechifor.net/circuits
+  - project: http://old.nechifor.net/circuits
 
 - name: Magic Square
   desc: Generates magic squares of different orders with three algorithms.
   links:
-  - project: http://nechifor.net/patrat-magic
+  - project: http://old.nechifor.net/patrat-magic
 
 - name: Horoscop
   desc: A fake horoscope site in Romanian. Can you tell this apart from the real thing?
   links:
-  - project: http://nechifor.net/horoscop
+  - project: http://old.nechifor.net/horoscop
   githubOff: Yes
 
 - name: SpaceHoarder
@@ -187,48 +187,48 @@ projects:
 - name: Fake Identity
   code: identitate-falsa
   desc: Generates plausible fake Romanian identities.
-  githubOff: Yes
   links:
-  - project: http://nechifor.net/identitate-falsa
+  - project: http://old.nechifor.net/identitate-falsa
+  githubOff: Yes
 
 - name: WebGL Demos
   links:
-  - project: http://nechifor.net/webgl-demos
+  - project: http://old.nechifor.net/webgl-demos
   desc: My WebGL demos.
 
 - name: Papers
   desc: Generates funny computer science papars titles.
   links:
-  - project: http://nechifor.net/papers
+  - project: http://old.nechifor.net/papers
   githubOff: Yes
 
 - name: Pseudoromanian
   desc: Text generator similar to Lorem Ipsum, but with Romanian letters.
   links:
-  - project: http://nechifor.net/pseudorom
+  - project: http://old.nechifor.net/pseudorom
   githubOff: Yes
 
 - name: XML+XSLT Blog
   code: jurnal-xml-xslt
   desc: An experimental blog I wrote in 2010 after I learned of XSLT.
   links:
-  - project: http://nechifor.net/static/jurnal-xml-xslt/vechi/jurnal.xml
+  - project: http://old.nechifor.net/static/jurnal-xml-xslt/vechi/jurnal.xml
 
 - name: SIBF
   desc: My atempt at making better book typography on the web.
   links:
-  - project: http://nechifor.net/sibf
+  - project: http://old.nechifor.net/sibf
 
 - name: Sidrem
   desc: A SVG font for an constructed script I created.
   links:
-  - project: http://nechifor.net/sidrem
+  - project: http://old.nechifor.net/sidrem
 
 - name: TorusCycle
   code: torus-cycle
   desc: A yet to be finished Tron clone in WebGL (use WAD and QE).
   links:
-  - project: http://nechifor.net/static/torus-cycle/index.html
+  - project: http://old.nechifor.net/static/torus-cycle/index.html
 
 - name: CRRIFC
   desc: A multiplayer map-based quiz game written in C for Linux.
