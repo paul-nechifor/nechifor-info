@@ -167,7 +167,7 @@ projects:
 - name: Circuits
   desc: Generates seamless circuit tiles.
   links:
-  - project: http://old.nechifor.net/circuits
+  - project: http://nechifor.net/circuits
 
 - name: Magic Square
   desc: Generates magic squares of different orders with three algorithms.
@@ -222,7 +222,7 @@ projects:
 - name: Sidrem
   desc: A SVG font for an constructed script I created.
   links:
-  - project: http://old.nechifor.net/sidrem
+  - project: http://nechifor.net/sidrem
 
 - name: TorusCycle
   code: torus-cycle
@@ -269,6 +269,8 @@ projects:
 
 - name: Git Visualization
   desc: Visualize local Git repos.
+  links:
+  - project: http://nechifor.net/git-visualization
 
 - name: Concurrency in Go
   code: go-concurrency
