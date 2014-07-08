@@ -53,9 +53,7 @@ personal:
     - **Programming languages**: I don’t think enough languages exist.
     There is room for improvement especially in non-general purpose languages.
 contact:
-- homepage:
-    domain: nechifor.net
-    url: http://nechifor.net
+- homepage: http://nechifor.net
 - email: paul@nechifor.net
 - github: paul-nechifor
 - linkedin: paul-nechifor/6a/531/763
@@ -64,7 +62,7 @@ contact:
 - instagram: paulnechifor
 - youtube: PaulNechifor
 - twitter: PaulNechifor
-- blog: http://blog.paul.nechifor.net
+- blog: http://nechifor.net/blog
 - stackoverflow:
     name: paul-nechifor
     number: 2872108
