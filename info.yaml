@@ -1,10 +1,15 @@
 personal:
   name:
-    first: Paul
-    last: Nechifor
+    given: Paul
+    family: Nechifor
   titles:
-  - coder
-  - engineer
+  - software engineer
+  education:
+  - type: bs
+    where:
+  - type: ms
+    degree: Software Engineering
+    where:
   location:
     city:
       full: Iași
@@ -15,43 +20,40 @@ personal:
     country:
       full: Romania
       short: RO
-    comment: currently
-  descShort: Hello
-  descLong: >
-    Hello, I’m a passionate developer and engineer from Iași, Romania. I’ve been
-    writing side projects since I’ve started programming. I’m a fast learner and
-    I like to take on challenging projects with other experienced programmers to
-    further develop my skills and leave behind beautiful projects. I believe
-    good code can be written in any language. I have an eye out for detail and
-    precision in everything I do. See my programming
-    [showreel](https://www.youtube.com/watch?v=zZZW-KqOmOE) draft.
-
-  interestsDesc: >
-    Things I’ve done in the past and liked and would be interested in exploring
-    further. If you’re interested in something similar (big co and startup
-    alike) go ahead and contact me.
-
-    - **Network communication protocols**
-
-    - **3D graphics on the web**: use of WebGL for extending the possibilities
-    of meaningful web communication (not gimmicky stuff) like mapping, analysis
-    tools, more immersive previews than simple photos.
-
-    - **Digital publishing with good typography**: publication of content that
-    builds and improves on classic typography. Much of current publishing is
-    subpar to dead tree typography.
-
-    - **Natural language correction tools**: practical (web?) NLP tools that
-    correct text beyond simple spell checkers.
-
-    - **Clear designs**: unobtrusive design that focuses on the content and its
-    navigation and manipulation.
-
-    - **AI game algorithms**: From complex algorithms for simple pen and paper
-    games to writing bots for complex games.
-
-    - **Programming languages**: I don’t think enough languages exist.
-    There is room for improvement especially in non-general purpose languages.
+  description:
+    short: Hi.
+    long: >
+      Hello, I’m a passionate developer and engineer from Iași, Romania. I’ve
+      been writing side projects since I’ve started programming. I’m a fast
+      learner and I like to take on challenging projects with other experienced
+      programmers to further develop my skills and leave behind beautiful
+      projects. I believe good code can be written in any language. I have an
+      eye out for detail and precision in everything I do. See my programming
+      [showreel](https://www.youtube.com/watch?v=zZZW-KqOmOE) draft.
+  interests:
+  - name: web systems
+  - name: communication protocols
+  - name: procedural generation
+  - name: 3D graphics on the web
+    description: >
+      Use of WebGL for extending the possibilities of meaningful web
+      communication (not gimmicky stuff) like mapping, analysis tools, more
+      immersive previews than simple photos.
+  - name: natural language correction tools
+    description: >
+      Practical NLP tools that correct text beyond simple spell checkers.
+  - name: digital publishing
+    description: >
+      Content distribution systems with good typography. Current web publishing
+      is subpar to paper typography.
+  - name: AI game algorithms
+    description: >
+      From complex algorithms for simple pen and paper games to writing bots for
+      complex games.
+  - name: clear designs
+    description: >
+      Unobtrusive design that focuses on the content and its navigation and
+      manipulation.
 contact:
 - homepage: http://nechifor.net
 - email: paul@nechifor.net
@@ -66,12 +68,6 @@ contact:
 - stackoverflow:
     name: paul-nechifor
     number: 2872108
-education:
-- type: bs
-  where:
-- type: ms
-  degree: Software Engineering
-  where:
 compLangs:
 - name: Java
   score: 1000
@@ -147,7 +143,7 @@ projects:
 - name: Reddit Cloud
   desc: Reddit bot which generates word clouds from comments.
   links:
-  - blog: http://blog.paul.nechifor.net/post/57349950225/word-cloud-bot-for-reddit
+  - article: http://nechifor.net/blog/reddit-wordcloud-bot
 
 - name: JPEG Enricher
   code: enricher
@@ -241,6 +237,8 @@ projects:
 
 - name: Check Your Privilege
   desc: A simple checklist to verify if you are privileged.
+  links:
+  - project: http://nechifor.net/check-your-privilege
 
 - name: College Website
   desc: My initial college website in PHP from 2008.
@@ -289,7 +287,9 @@ projects:
   desc: An old site.
 
 - name: Resolvents
-  desc: A Logics homework.
+  desc: Logical resolvents finder.
+  links:
+  - article: http://nechifor.net/blog/resolvents
 
 - name: RSTSD
   desc: A history themed website I build in 2006 for a competition.
