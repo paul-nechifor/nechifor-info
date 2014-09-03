@@ -72,25 +72,50 @@ compLangs:
 - name: Java
   score: 1000
 
+- name: JavaScript
+  score: 990
+
 - name: Python
+  score: 910
 
 - name: CoffeeScript
-
-- name: JavaScript
-
-- name: ActionScript
-
-- name: C++
+  score: 890
 
 - name: C
+  score: 720
+
+- name: C++
+  score: 650
 
 - name: C#
+  score: 590
 
 - name: Go
+  score: 150
 
-- name: Haskell
+- name: ActionScript
+  score: 90
 
 - name: Assembly
+  score: 50
+
+- name: Haskell
+  score: 40
+
+- name: PHP
+  score: 35
+
+- name: Pascal
+  score: 30
+
+- name: Lisp
+  score: 9
+
+- name: FoxPro
+  score: 4
+
+- name: PL/SQL
+  score: 2
 
 - name: CSS
   types: non-prog
@@ -103,22 +128,6 @@ compLangs:
 
 - name: Stylus
   types: non-prog
-
-- name: Lisp
-
-- name: PHP
-
-- name: Pascal
-  score: 30
-
-- name: K
-  score: 6
-
-- name: FoxPro
-  score: 4
-
-- name: PL/SQL
-  score: 2
 
 projects:
 - name: Thunder Tactics
