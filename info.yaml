@@ -136,17 +136,23 @@ skills:
 projects:
 - name: Multilatex
   desc: Collaborative web editor for LaTeX projects (M.Sc. project).
+  uses: Node.js
+  tags: major
 
 - name: Thunder Tactics
   code: tt
   desc: WebGL and WebSockets MMORPG/TBS browser game (group project).
   links:
   - report: https://drive.google.com/file/d/0B2d_Hog018b4dU9CbS1TNHZNYVE/edit?usp=sharing
+  uses: Java, JavaScript
+  tags: major
 
 - name: Negura
   desc: Peer-to-peer distribuited file system (B.Sc. project).
   links:
   - report: https://github.com/paul-nechifor/Negura/raw/master/doc/licen%C8%9B%C4%83/licen%C8%9B%C4%83.pdf
+  uses: Java
+  tags: major
 
 - name: ComA
   desc: Commuter assistent for Android (HCI project).
@@ -155,20 +161,35 @@ projects:
   - report: http://htmlpreview.github.io/?https://github.com/paul-nechifor/coma/blob/master/report/report.html
   - blog: http://building-coma.tumblr.com/
   - youtube: http://www.youtube.com/watch?v=vWgLG8Cdfzk
+  uses: Java
+  tags: major
 
 - name: DNSSEC Toy
   desc: Authoritative server and rezolver using multiple servers and authority zones.
+  uses: Java
+  tags: major
 
 - name: Reddit Cloud
   desc: Reddit bot that generates word clouds from comments.
   links:
   - article: http://nechifor.net/blog/reddit-wordcloud-bot
+  uses: Python
+  tags: major
 
 - name: Poshex
   desc: Chrome extension for detecting and using semantic markup formats.
+  uses: JavaScript
+  tags: major
 
 - name: PayWord Radio
   desc: Audio streaming using PayWord micropayment.
+  uses: Java
+  tags: major
+
+- name: Fus Talk
+  desc: IM client with offline messages, availability notifications, file transfers and alerts.
+  uses: C#
+  tags: major
 
 - name: JPEG Enricher
   code: enricher
