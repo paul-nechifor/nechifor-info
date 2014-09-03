@@ -129,6 +129,10 @@ compLangs:
 - name: Stylus
   types: non-prog
 
+skills:
+- name: Git
+  type: util
+
 projects:
 - name: Thunder Tactics
   code: tt
