@@ -148,14 +148,14 @@ projects:
   tags: major
 
 - name: Negura
-  desc: Peer-to-peer distribuited file system (B.Sc. project).
+  desc: Peer-to-peer distributed file system (B.Sc. project).
   links:
   - report: https://github.com/paul-nechifor/Negura/raw/master/doc/licen%C8%9B%C4%83/licen%C8%9B%C4%83.pdf
   uses: Java
   tags: major
 
 - name: ComA
-  desc: Commuter assistent for Android (HCI project).
+  desc: Commuter assistant for Android (HCI project).
   demo: http://www.youtube.com/watch?v=vWgLG8Cdfzk
   links:
   - report: http://htmlpreview.github.io/?https://github.com/paul-nechifor/coma/blob/master/report/report.html
@@ -165,7 +165,7 @@ projects:
   tags: major
 
 - name: DNSSEC Toy
-  desc: Authoritative server and rezolver using multiple servers and authority zones.
+  desc: Authoritative server and resolver using multiple servers and authority zones.
   uses: Java
   tags: major
 
@@ -199,7 +199,7 @@ projects:
 
 - name: JPEG Enricher
   code: enricher
-  desc: Web app for accruing JPEG artefacts.
+  desc: Web app for accruing JPEG artifacts.
   links:
   - project: http://old.nechifor.net/enricher
   githubOff: Yes
@@ -258,7 +258,7 @@ projects:
   tags: cvOff
 
 - name: Papers
-  desc: Generates funny computer science papars titles.
+  desc: Generates funny computer science papers titles.
   links:
   - project: http://old.nechifor.net/papers
   githubOff: Yes
@@ -282,7 +282,7 @@ projects:
   tags: cvOff
 
 - name: SIBF
-  desc: My atempt at making better book typography on the web.
+  desc: My attempt at making better book typography on the web.
   links:
   - project: http://nechifor.net/sibf
   tags: cvOff
@@ -370,7 +370,7 @@ projects:
 
 - name: Minimul
   code: minimul-default
-  desc: The predecesor to my current website.
+  desc: The predecessor to my current website.
   tags: cvOff
 
 - name: Minimul Server
