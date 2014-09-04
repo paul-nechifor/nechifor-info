@@ -191,35 +191,18 @@ projects:
   uses: C#
   tags: major
 
-- name: JPEG Enricher
-  code: enricher
-  desc: Enriches images by adding JPEG artefacts.
-  links:
-  - project: http://old.nechifor.net/enricher
-  githubOff: Yes
-  tags: cvOff
-
-- name: Chess puzzles
-  desc: Simple chess puzzles in HTML.
-  links:
-  - project: http://old.nechifor.net/chess-puzzles
-  githubOff: Yes
-  tags: cvOff
-
-- name: Circuits
-  desc: Generates seamless circuit tiles.
-  links:
-  - project: http://nechifor.net/circuits
-  tags: cvOff
-
 - name: PP2P
   desc: Filesharing similar to Direct Connect using Qt.
 
 - name: Romsun
   desc: Romanian text-to-speech using MBROLA.
 
-- name: Vagrant Hadoop Cluster
-  desc: Multiserver Hadoop configuration using Vagrant.
+- name: JPEG Enricher
+  code: enricher
+  desc: Web app for accruing JPEG artefacts.
+  links:
+  - project: http://old.nechifor.net/enricher
+  githubOff: Yes
 
 - name: KMPress
   desc: K-means clustering to encode an image using fewer colors.
@@ -231,6 +214,12 @@ projects:
   desc: Plausible fake horoscope generator (Romanian).
   links:
   - project: http://old.nechifor.net/horoscop
+  githubOff: Yes
+
+- name: Chess puzzles
+  desc: Chess puzzles web app.
+  links:
+  - project: http://old.nechifor.net/chess-puzzles
   githubOff: Yes
 
 - name: CRRIFC
@@ -247,12 +236,20 @@ projects:
   code: space-hoarder
   desc: Linux file treemapping app using GTK+ in Python.
 
+- name: Vagrant Hadoop Cluster
+  desc: Multiserver Hadoop configuration using Vagrant.
+
 - name: Fake Identity
   code: identitate-falsa
   desc: Plausible fake identity generator (Romanian).
   links:
   - project: http://old.nechifor.net/identitate-falsa
   githubOff: Yes
+
+- name: Circuits
+  desc: Generator of seamless circuit board tiles.
+  links:
+  - project: http://nechifor.net/circuits
 
 - name: WebGL Demos
   desc: My WebGL demos.
