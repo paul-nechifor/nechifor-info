@@ -187,7 +187,7 @@ projects:
   tags: major
 
 - name: Fus Talk
-  desc: IM client with offline messages, availability notifications, file transfers and alerts.
+  desc: IM with offline messages, availability notifications, file transfers and alerts.
   uses: C#
   tags: major
 
@@ -369,12 +369,10 @@ projects:
   tags: cvOff
 
 - name: Minimul
-  code: minimul-default
   desc: The predecessor to my current website.
   tags: cvOff
 
-- name: Minimul Server
-  code: minimul
+- name: Minimul Machine
   desc: Vagrant configuration for all my old websites.
   tags: cvOff
 
@@ -406,6 +404,18 @@ projects:
 
 - name: Dotfiles
   desc: My personal Linux dotfiles.
+  tags: cvOff
+
+- name: CV
+  desc: My PDF CV generator.
+  tags: cvOff
+
+- name: Nechifor Site
+  desc: My integrated Intercessor site.
+  tags: cvOff
+
+- name: Paul Scripts
+  desc: My pre-college personal website.
   tags: cvOff
 
 #- name: ML Notes
