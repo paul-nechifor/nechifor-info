@@ -223,7 +223,7 @@ projects:
   githubOff: Yes
 
 - name: CRRIFC
-  desc: A multiplayer map-based quiz game written in C for Linux.
+  desc: Multiplayer map-based quiz game written in C for Linux.
   links:
   - youtube: http://www.youtube.com/watch?v=QlaqZcl0R_A
 
@@ -243,8 +243,7 @@ projects:
   code: identitate-falsa
   desc: Plausible fake identity generator (Romanian).
   links:
-  - project: http://old.nechifor.net/identitate-falsa
-  githubOff: Yes
+  - project: http://nechifor.net/identitate-falsa
 
 - name: Circuits
   desc: Generator of seamless circuit board tiles.
@@ -274,9 +273,8 @@ projects:
   githubOff: Yes
   tags: cvOff
 
-- name: XML+XSLT Blog
-  code: jurnal-xml-xslt
-  desc: An experimental blog I wrote in 2010 after I learned of XSLT.
+- name: XSLT Blog
+  desc: Experimental blog I wrote after learning XSLT in 2010.
   links:
   - project: http://old.nechifor.net/static/jurnal-xml-xslt/vechi/jurnal.xml
   tags: cvOff
@@ -321,8 +319,6 @@ projects:
 
 - name: "1930"
   desc: Multiplayer quiz game, but massive, urgent, and eternal.
-  links:
-  - github: Romania-1930
   tags: cvOff
 
 - name: Fenrir Chat
@@ -412,6 +408,10 @@ projects:
 
 - name: Nechifor Site
   desc: My integrated Intercessor site.
+  tags: cvOff
+
+- name: Nechifor Blog
+  desc: My custom blog generator.
   tags: cvOff
 
 - name: Paul Scripts
