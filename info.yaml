@@ -269,8 +269,7 @@ projects:
 - name: Pseudoromanian
   desc: Text generator similar to Lorem Ipsum, but with Romanian letters.
   links:
-  - project: http://old.nechifor.net/pseudorom
-  githubOff: Yes
+  - project: http://nechifor.net/pseudoromana
   tags: cvOff
 
 - name: XSLT Blog
