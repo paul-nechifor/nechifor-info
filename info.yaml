@@ -198,11 +198,9 @@ projects:
   desc: Romanian text-to-speech using MBROLA.
 
 - name: JPEG Enricher
-  code: enricher
   desc: Web app for accruing JPEG artifacts.
   links:
-  - project: http://old.nechifor.net/enricher
-  githubOff: Yes
+  - project: http://nechifor.net/jpeg-enricher
 
 - name: KMPress
   desc: K-means clustering to encode an image using fewer colors.
@@ -213,14 +211,12 @@ projects:
 - name: Horoscop
   desc: Plausible fake horoscope generator (Romanian).
   links:
-  - project: http://old.nechifor.net/horoscop
-  githubOff: Yes
+  - project: http://nechifor.net/horoscop
 
 - name: Chess puzzles
   desc: Chess puzzles web app.
   links:
-  - project: http://old.nechifor.net/chess-puzzles
-  githubOff: Yes
+  - project: http://nechifor.net/chess-puzzles
 
 - name: CRRIFC
   desc: Multiplayer map-based quiz game written in C for Linux.
@@ -285,7 +281,7 @@ projects:
   tags: cvOff
 
 - name: Sidrem
-  desc: A SVG font for an constructed script I created.
+  desc: A constructed script font I created.
   links:
   - project: http://nechifor.net/sidrem
   tags: cvOff
