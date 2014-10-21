@@ -332,17 +332,12 @@ projects:
   tags: cvOff
 
 - name: Italia fascistă
+  code: italia-fascista
   desc: A history themed web site I build in high school for a competition.
-  links:
-  - github: italia-fascista
   tags: cvOff
 
 - name: Meet Firefox
   desc: A silly project I did in my first semester of college.
-  tags: cvOff
-
-- name: Paul Scripts
-  desc: An old site.
   tags: cvOff
 
 - name: Resolvents
