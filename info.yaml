@@ -253,10 +253,9 @@ projects:
   tags: cvOff
 
 - name: Papers
-  desc: Generates funny computer science papers titles.
+  desc: Generates funny computer science paper titles.
   links:
-  - project: http://old.nechifor.net/papers
-  githubOff: Yes
+  - project: http://nechifor.net/papers
   tags: cvOff
 
 - name: Makawa
