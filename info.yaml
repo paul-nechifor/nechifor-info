@@ -225,8 +225,8 @@ projects:
 
 - name: Magic Square
   desc: Multi-algorithm magic square generator.
-  links:
-  - project: http://old.nechifor.net/patrat-magic
+#  links:
+#  - project: http://old.nechifor.net/patrat-magic
 
 - name: SpaceHoarder
   code: space-hoarder
@@ -249,7 +249,7 @@ projects:
 - name: WebGL Demos
   desc: My WebGL demos.
   links:
-  - project: http://old.nechifor.net/webgl-demos
+  - project: http://nechifor.net/webgl-demos
   tags: cvOff
 
 - name: Papers
@@ -269,8 +269,8 @@ projects:
 
 - name: XSLT Blog
   desc: Experimental blog I wrote after learning XSLT in 2010.
-  links:
-  - project: http://old.nechifor.net/static/jurnal-xml-xslt/vechi/jurnal.xml
+#  links:
+#  - project: http://old.nechifor.net/static/jurnal-xml-xslt/vechi/jurnal.xml
   tags: cvOff
 
 - name: SIBF
@@ -288,8 +288,8 @@ projects:
 - name: TorusCycle
   code: torus-cycle
   desc: A yet to be finished Tron clone in WebGL (use WAD and QE).
-  links:
-  - project: http://old.nechifor.net/static/torus-cycle/index.html
+#  links:
+#  - project: http://old.nechifor.net/static/torus-cycle/index.html
   tags: cvOff
 
 - name: Auto Doge
