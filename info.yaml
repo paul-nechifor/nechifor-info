@@ -6,20 +6,20 @@ personal:
   - software engineer
   education:
   - type: bs
-    where:
+    degree: Computer Science
+    where: Alexandru Ioan Cuza University
+    end: 2012
   - type: ms
     degree: Software Engineering
-    where:
+    where: Alexandru Ioan Cuza University
+    end: 2014
   location:
     city:
-      full: Iași
-      short: IS
-    region:
-      full: Iași
-      short: IS
+      full: London
     country:
-      full: Romania
-      short: RO
+      full: United Kingdom
+      short: UK
+
 contact:
 - homepage: http://nechifor.net
 - email: paul@nechifor.net
