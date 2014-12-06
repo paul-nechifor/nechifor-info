@@ -14,11 +14,9 @@ personal:
     where: Alexandru Ioan Cuza University
     end: 2014
   location:
-    city:
-      full: London
-    country:
-      full: United Kingdom
-      short: UK
+    city: London
+    country: United Kingdom
+    normal: London, UK
 
 contact:
 - homepage: http://nechifor.net
@@ -45,6 +43,7 @@ projects:
 - name: Blog
   code: nechifor-blog
   desc: My custom blog generator.
+  tags: intercessor--1200
 
 - name: Cat Finder
   desc: A game solving program.
@@ -53,18 +52,19 @@ projects:
   desc: A simple checklist to verify if you are privileged.
   links:
   - project: http://nechifor.net/check-your-privilege
+  tags: intercessor--100
 
 - name: Chess puzzles
   desc: Chess puzzles web app.
   links:
   - project: http://nechifor.net/chess-puzzles
-  tags: cvMinor-700
+  tags: cvMinor--700, index--200, intercessor--200
 
 - name: Circuits
   desc: Generator of seamless circuit board tiles.
   links:
   - project: http://nechifor.net/circuits
-  tags: cvMinor-1300
+  tags: cvMinor--1300, index--100, intercessor--300
 
 - name: College Website
   desc: My initial college website in PHP from 2008.
@@ -77,7 +77,7 @@ projects:
   - blog: http://building-coma.tumblr.com/
   - youtube: http://www.youtube.com/watch?v=vWgLG8Cdfzk
   uses: Java
-  tags: cv-400
+  tags: cv--400
 
 - name: Concurrency in Go
   code: go-concurrency
@@ -87,7 +87,7 @@ projects:
   desc: Multiplayer map-based quiz game written in C for Linux.
   links:
   - youtube: http://www.youtube.com/watch?v=QlaqZcl0R_A
-  tags: cvMinor-800
+  tags: cvMinor--800
 
 - name: CV
   desc: My PDF CV generator.
@@ -98,21 +98,21 @@ projects:
 - name: DNSSEC Toy
   desc: Authoritative server and resolver using multiple servers and authority zones.
   uses: Java
-  tags: cv-500
+  tags: cv--500
 
 - name: Dotfiles
   desc: My personal Linux dotfiles.
 
 - name: Facetrain
   desc: Neural networks face training experiments.
-  tags: cvMinor-500
+  tags: cvMinor--500
 
 - name: Fake Identity
   code: identitate-falsa
   desc: Plausible fake identity generator (Romanian).
   links:
   - project: http://nechifor.net/identitate-falsa
-  tags: cvMinor-1200
+  tags: cvMinor--1200, intercessor--600
 
 - name: Fenrir Chat
   desc: My first use of BSD sockets to build a chat program.
@@ -120,22 +120,24 @@ projects:
 - name: Fus Talk
   desc: IM with offline messages, availability notifications, file transfers and alerts.
   uses: C#
-  tags: cv-900
+  tags: cv--900
 
 - name: Git Visualization
   desc: Visualize local Git repos.
   links:
   - project: http://nechifor.net/git-visualization
+  tags: intercessor--400
 
 - name: Homepage
   code: nechifor-index
   desc: My homepage.
+  tags: intercessor--1400
 
 - name: Horoscop
   desc: Plausible fake horoscope generator (Romanian).
   links:
   - project: http://nechifor.net/horoscop
-  tags: cvMinor-600
+  tags: cvMinor--600, intercessor--500
 
 - name: Italia fascistă
   code: italia-fascista
@@ -145,11 +147,11 @@ projects:
   desc: Web app for accruing JPEG artifacts.
   links:
   - project: http://nechifor.net/jpeg-enricher
-  tags: cvMinor-300
+  tags: cvMinor--300, intercessor--700
 
 - name: KMPress
   desc: K-means clustering to encode an image using fewer colors.
-  tags: cvMinor-400
+  tags: cvMinor--400
 
 - name: Linux CLI tips
   desc: Linux command-line tips in bubbles.
@@ -158,7 +160,7 @@ projects:
   desc: Multi-algorithm magic square generator.
 #  links:
 #  - project: http://old.nechifor.net/patrat-magic
-  tags: cvMinor-900
+  tags: cvMinor--900
 
 - name: Makawa
   desc: Java implementation of the Macaua card game.
@@ -178,21 +180,23 @@ projects:
 - name: Multilatex
   desc: Collaborative web editor for LaTeX projects (M.Sc. project).
   uses: Node.js
-  tags: cv-100
+  tags: cv--100
 
 - name: Multilatex Dissertation
   desc: My M.Sc. dissertation.
-- name: Papers
-  desc: Generates funny computer science paper titles.
-  links:
-  - project: http://nechifor.net/papers
 
 - name: Negura
   desc: Peer-to-peer distributed file system (B.Sc. project).
   links:
   - report: https://github.com/paul-nechifor/Negura/raw/master/doc/licen%C8%9B%C4%83/licen%C8%9B%C4%83.pdf
   uses: Java
-  tags: cv-300
+  tags: cv--300
+
+- name: Papers
+  desc: Generates funny computer science paper titles.
+  links:
+  - project: http://nechifor.net/papers
+  tags: index--300, intercessor--800
 
 - name: Paul Scripts
   desc: My pre-college personal website.
@@ -200,7 +204,7 @@ projects:
 - name: PayWord Radio
   desc: Audio streaming using PayWord micropayment.
   uses: Java
-  tags: cv-800
+  tags: cv--800
 
 - name: PN Stat
   code: pnstat
@@ -209,23 +213,24 @@ projects:
 - name: Poshex
   desc: Chrome extension for detecting and using semantic markup formats.
   uses: JavaScript
-  tags: cv-700
+  tags: cv--700
 
 - name: PP2P
   desc: Filesharing similar to Direct Connect using Qt.
-  tags: cvMinor-100
+  tags: cvMinor--100
 
 - name: Pseudoromanian
   desc: Text generator similar to Lorem Ipsum, but with Romanian letters.
   links:
   - project: http://nechifor.net/pseudoromana
+  tags: intercessor--1300
 
 - name: Reddit Cloud
   desc: Reddit bot that generates word clouds from comments.
   links:
   - article: http://nechifor.net/blog/reddit-wordcloud-bot
   uses: Python
-  tags: cv-600
+  tags: cv--600
 
 - name: Resolvents
   desc: Logical resolvents finder.
@@ -234,7 +239,7 @@ projects:
 
 - name: Romsun
   desc: Romanian text-to-speech using MBROLA.
-  tags: cvMinor-200
+  tags: cvMinor--200
 
 - name: RSTSD
   desc: A history themed website I build in 2006 for a competition.
@@ -247,20 +252,23 @@ projects:
   desc: My attempt at making better book typography on the web.
   links:
   - project: http://nechifor.net/sibf
+  tags: intercessor--900
 
 - name: Sidrem
   desc: A constructed script font I created.
   links:
   - project: http://nechifor.net/sidrem
+  tags: intercessor--1000
 
 - name: Site
   code: nechifor-site
   desc: My integrated Intercessor site.
+  tags: index--400
 
 - name: SpaceHoarder
   code: space-hoarder
   desc: Linux file treemapping app using GTK+ in Python.
-  tags: cvMinor-1000
+  tags: cvMinor--1000
 
 - name: Thunder Tactics
   code: tt
@@ -268,7 +276,7 @@ projects:
   links:
   - report: https://drive.google.com/file/d/0B2d_Hog018b4dU9CbS1TNHZNYVE/edit?usp=sharing
   uses: Java, JavaScript
-  tags: cv-200
+  tags: cv--200, index--500
 
 - name: Timr
   desc: My project for my Web Technologies course in 2010.
@@ -281,12 +289,13 @@ projects:
 
 - name: Vagrant Hadoop Cluster
   desc: Multiserver Hadoop configuration using Vagrant.
-  tags: cvMinor-1100
+  tags: cvMinor--1100
 
 - name: WebGL Demos
   desc: My WebGL demos.
   links:
   - project: http://nechifor.net/webgl-demos
+  tags: intercessor--1100
 
 - name: XSLT Blog
   desc: Experimental blog I wrote after learning XSLT in 2010.
